@@ -1,11 +1,11 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: Neat Links
 layout: default
 ---
 
-## Welcome to my webpage of pointers!
+## Hello and welcome to my webpage of links!
 
 ## Reading recommendations:
 * ### [World Inequality Report 2022](https://wir2022.wid.world/) ([summary here](https://wir2022.wid.world/www-site/uploads/2021/12/Summary_WorldInequalityReport2022_English.pdf))
@@ -21,3 +21,5 @@ layout: default
 * ### [Thomas Piketty - Social Europe Podcast](https://socialeurope.podigee.io/65-new-episode)
 * ### [Paul Collier - Social Europe Podcast](https://socialeurope.podigee.io/34-paul-collier-how-to-deal-with-europe-s-migration-issue)
 * ### [45 graus podcast (PT)](https://45graus.parafuso.net/)
+
+### [My personal website](https://mesquita.xyz)
